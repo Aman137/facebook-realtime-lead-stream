@@ -1,0 +1,92 @@
+{
+  "negative_phrases": [
+    "already found someone",
+    "no longer looking",
+    "problem solved",
+    "position filled",
+    "not looking for",
+    "do not need"
+  ],
+  "self_promotion_phrases": [
+    "i am a realtor",
+    "i'm a realtor",
+    "contact me for your real estate needs",
+    "my newest listing",
+    "open house hosted by me"
+  ],
+  "intent_phrases": [
+    "looking for",
+    "need help",
+    "need a",
+    "recommend",
+    "recommendation",
+    "does anyone know",
+    "can anyone",
+    "who can",
+    "planning to",
+    "want to",
+    "thinking about"
+  ],
+  "urgency_phrases": [
+    "asap",
+    "urgent",
+    "immediately",
+    "this week",
+    "before closing",
+    "today",
+    "tomorrow"
+  ],
+  "categories": {
+    "Buyer": [
+      "buy a home",
+      "buying a home",
+      "first-time buyer",
+      "first time buyer",
+      "house hunting",
+      "mortgage preapproval",
+      "moving to"
+    ],
+    "Seller": [
+      "sell my home",
+      "selling my house",
+      "listing agent",
+      "home valuation",
+      "put my house on the market"
+    ],
+    "Agent Referral": [
+      "realtor",
+      "real estate agent",
+      "buyers agent",
+      "buyer's agent",
+      "listing agent"
+    ],
+    "Rental": [
+      "apartment",
+      "rental",
+      "rent a house",
+      "lease",
+      "tenant",
+      "landlord"
+    ],
+    "Contractor or Home Service": [
+      "contractor",
+      "roofer",
+      "roofing",
+      "plumber",
+      "electrician",
+      "hvac",
+      "foundation repair",
+      "remodel",
+      "handyman",
+      "painter"
+    ],
+    "Investor": [
+      "investment property",
+      "cash buyer",
+      "fix and flip",
+      "rental property",
+      "cap rate"
+    ]
+  }
+}
+
